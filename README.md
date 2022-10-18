@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About me:
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **Front End Web Development**
 
 - 📫 How to reach me **muktiagrawal135@gmail.com**
 
