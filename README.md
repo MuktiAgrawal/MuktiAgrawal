@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mukti</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="ananyagrawal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyagrawal&label=Profile%20views&color=0e75b6&style=flat" alt="muktiagrawal" /> </p>
 
 ### 👨‍💻 About me:
 
-- 🌱 I’m currently learning **Machine Learning** and **Front End Web Development**
+- 🌱 I’m a **Full Stack Web Developer**
 
 - 📫 How to reach me **muktiagrawal135@gmail.com**
 
